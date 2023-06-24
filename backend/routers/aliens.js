@@ -214,7 +214,7 @@ const Format = require('../models/data');
 
  router.post('/date', async (req, res) => {
 
-  console.log(req.body, 'sending data');
+  
 
   const { order_number, stamp, status } = req.body;
 
