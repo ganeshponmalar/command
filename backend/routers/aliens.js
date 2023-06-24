@@ -418,7 +418,7 @@ router.get('/:order_number', (req, res) => {
 
     const orderNumber = req.params.order_number;
 
-   console.log(orderNumber)
+   
 
     if (!orderNumber) {
 
