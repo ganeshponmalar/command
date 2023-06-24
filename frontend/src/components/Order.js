@@ -10,7 +10,7 @@ export default function FormatData() {
 
   const [loading, setLoading] = useState(false);
   
-  console.log(loading)
+
 
   const handleFetchData = () => {
 
@@ -28,7 +28,7 @@ export default function FormatData() {
         } else {
 
           alert('An error occurred');
-          
+
         }
 
       })
