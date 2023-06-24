@@ -1,0 +1,31 @@
+.text-a{
+
+  width: 50%;
+  height: 80px;
+  border-color: blue;
+  background-color: rgb(60, 60, 60);
+  color: #fff;
+  font-weight: 500;
+  font-size: larger;
+
+}
+
+.details {
+  
+  padding: 10px;
+  margin-top: 20px;
+  border: 2px solid blue;
+  margin-left: 20px;
+  width: 50%;
+  background-color:rgb(60, 60, 60) ;
+  color:#fff
+}
+
+.btn {
+  background-color: blue; /* Example background color */
+  color: black;
+  border: none;
+  padding: 15px 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
